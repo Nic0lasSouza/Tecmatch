@@ -2,6 +2,52 @@
     width: 100px;
     height: 50px;
 }
-#nav_background{
-    background: blue;
+#size_carrosel{
+    width: 550px;
+    height: 350px;
+    margin-bottom: 0;
+}
+.img_carrosel{
+    width: auto;
+    height: auto;
+    margin-left: 350px;
+}
+#button_next{
+    margin-right: 0;
+    background:gray;
+}
+#button_prev{
+    background: gray;
+}
+.fakeimg {
+    height: 200px;
+    width: 350px;
+}
+#logo_nosso{
+    width: 350px;
+    height: 200px;
+}
+#img_sbruzzi{
+    width: 250px;
+    height: 200px;
+}
+.redes_sociais img {
+    width: 25px;
+    height: 25px;
+}
+.sobre_nos{
+    text-align: center;
+}
+.txt_sobre{
+    max-width: 100%;
+}
+#apoiadores{
+    text-align: center;
+}
+.texto{
+    font-style: italic;
+    text-align: center;
+}
+#footer_colado{
+    margin-bottom: 0px;
 }
