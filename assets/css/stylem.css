@@ -5,20 +5,14 @@
 #size_carrosel{
     width: 550px;
     height: 350px;
-    margin-bottom: 0;
+    margin-left: 600px;
 }
 .img_carrosel{
     width: auto;
     height: auto;
     margin-left: 350px;
 }
-#button_next{
-    margin-right: 0;
-    background:gray;
-}
-#button_prev{
-    background: gray;
-}
+
 .fakeimg {
     height: 200px;
     width: 350px;
